@@ -9,12 +9,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Dhruv-A0908/MyLeetcode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/Dhruv-A0908/MyLeetcode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Dhruv-A0908/MyLeetcode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/Dhruv-A0908/MyLeetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Dhruv-A0908/MyLeetcode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/Dhruv-A0908/MyLeetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
